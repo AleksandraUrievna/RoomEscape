@@ -4,19 +4,20 @@
 
 1)Главная идея игры это квест, проходя который выбираешься из комнаты в покер-клуб. 
 
- ![Screenshot_11](https://user-images.githubusercontent.com/65093579/85608537-d467af00-b65d-11ea-8668-a79d1b355a17.png)
+ ![Screenshot_16](https://user-images.githubusercontent.com/65093579/89054024-c8f45b80-d360-11ea-8673-f65803048057.png)
  
 2)Чтобы открыть дверь нужно подойти до триггера-выделен зеленой лампой в комнате.
 
- ![Screenshot_2](https://user-images.githubusercontent.com/65093579/85608609-e5182500-b65d-11ea-952e-1f89b495d52e.png)
+ ![Screenshot_17](https://user-images.githubusercontent.com/65093579/89054131-fc36ea80-d360-11ea-82bb-ed3be7ebfdbe.png)
  
 3)Как только попытаешься подбежать в момент откытой двери в другую комнату, она сразу начнет закрываться.
 
- ![Screenshot_10](https://user-images.githubusercontent.com/65093579/85608685-f9f4b880-b65d-11ea-9a61-d22d01ab18a1.png)
+ ![Screenshot_24](https://user-images.githubusercontent.com/65093579/89054364-5768dd00-d361-11ea-87ea-25e1c1a88ef0.png)
  
 4)Идея квеста состоит в том, что нужно взять (нажатие левой клавиши мышки) стол и поднести его к триггеру, после нужно еще добавить стул к толу, чтобы масса была равна срабатыванию триггера.
 
- ![Screenshot_7](https://user-images.githubusercontent.com/65093579/85608740-08db6b00-b65e-11ea-9255-f8cb249ec58e.png)
+![Screenshot_18](https://user-images.githubusercontent.com/65093579/89054402-6780bc80-d361-11ea-8e3e-1a9192917d00.png)
+![Screenshot_22](https://user-images.githubusercontent.com/65093579/89054413-6a7bad00-d361-11ea-85c5-e782c17b9a54.png)
  
 5)Команда захвата предметов написана в коде С++, также функция открывающейся двери описана в классе С++.
 
@@ -26,8 +27,8 @@
  
 7)Также была проделана работа с настраиванием освещения в комнатах и освещением подсказок.
 
-![Screenshot_6](https://user-images.githubusercontent.com/65093579/85608905-36c0af80-b65e-11ea-9ac9-bb79ddad7b53.png)
-![Screenshot_9](https://user-images.githubusercontent.com/65093579/85608941-3f18ea80-b65e-11ea-9bc2-8e5dd28a30ab.png)
+![Screenshot_19](https://user-images.githubusercontent.com/65093579/89054504-94cd6a80-d361-11ea-9c69-072ffb88194f.png)
+![Screenshot_23](https://user-images.githubusercontent.com/65093579/89054509-98f98800-d361-11ea-954e-cbceaefafda4.png)
 
 
 
